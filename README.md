@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @vldvp
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: { email: vldvp01@gmail.com, twitter: @vldvpp }
+
